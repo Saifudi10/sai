@@ -3,7 +3,7 @@ function getRandomName(retry, noSpace = false) {
 	
 	$(".copybutton").html('Copy');
 	
-	var showCount = 1;
+	var showCount = 3;
 	
 	var nameLists = [
 	
